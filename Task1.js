@@ -24,7 +24,7 @@ class Movie{
       this.rating=rating
 }
 }
-var film1=new Movie("Manjummel Boys","Parava Films","IMDB 8.7")
+var film1=new Movie("Manjummel Boys","AVM","IMDB 8.7")
 var res=film1.print_data()
 console.log(res)
 temp=[]
